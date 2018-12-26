@@ -1,2 +1,2 @@
-flask
-waitress
+flask==1.0.2
+waitress==1.1.0
